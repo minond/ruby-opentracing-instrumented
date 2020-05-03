@@ -77,3 +77,7 @@ https://github.com/minond/ruby-opentracing-instrumented.
 
 The gem is available as open source under the terms of the [MIT
 License](https://opensource.org/licenses/MIT).
+
+---
+
+[![Build Status](https://travis-ci.org/minond/ruby-opentracing-instrumented.svg?branch=master)](https://travis-ci.org/minond/ruby-opentracing-instrumented)
